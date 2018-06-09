@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.paulatenorio.hojac.MainActivity">
+
+    <ImageView
+        android:layout_width="280dp"
+        android:layout_height="269dp"
+        android:layout_gravity="center"
+        android:src="@drawable/datos"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nombre:Paula Tenorio Briggs"
+        android:textColor="@color/colorPrimary"
+        android:layout_gravity="left"
+        android:textSize="25sp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Trinipuerto"
+        android:textColor="@color/colorPrimary"
+        android:layout_gravity="left"
+        android:textSize="25sp"
+        />
+
+
+
+
+
+
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Edad:22 años"
+        android:textColor="@color/colorPrimary"
+        android:layout_gravity="left"
+        android:textSize="25sp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="fecha_nacimiento:27/02/96"
+        android:textColor="@color/colorPrimary"
+        android:layout_gravity="left"
+        android:textSize="25sp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email:kari.962012@hotmail.com"
+        android:textColor="@color/colorPrimary"
+        android:layout_gravity="left"
+        android:textSize="25sp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Telefono:2698100-0979902038"
+        android:textColor="@color/colorPrimary"
+        android:layout_gravity="left"
+        android:textSize="25sp"
+        />
+
+
+
+</LinearLayout>

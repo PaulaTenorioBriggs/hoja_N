@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.paulatenorio.hojac.MainActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CURRICULUM VITAE"
+        android:layout_gravity="center_horizontal"
+        android:textSize="25sp"
+        />
+
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="229dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="9dp"
+        android:src="@drawable/paula" />
+
+    <Button
+        android:id="@+id/bt_datos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Datos" />
+
+    <Button
+        android:id="@+id/Estudios"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Estudios" />
+
+    <Button
+        android:id="@+id/Experiencia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Experiencia" />
+
+    <Button
+        android:id="@+id/Referencias"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Referencias" />
+
+
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
