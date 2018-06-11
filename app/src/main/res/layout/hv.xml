@@ -6,12 +6,16 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context="com.example.paulatenorio.hojac.MainActivity">
+
     <TextView
+
+
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="CURRICULUM VITAE"
         android:layout_gravity="center_horizontal"
-        android:textSize="25sp"
+        android:textSize="24sp"
+
         />
 
 

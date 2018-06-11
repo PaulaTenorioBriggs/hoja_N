@@ -10,5 +10,6 @@ public class DatosPersonal extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.DatosPersonales);
 
+
     }
 }
